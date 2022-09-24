@@ -30,3 +30,4 @@ sqlite> .quit
 3) Or specify the path via `RUST_LOG=info cargo run -- --dataset-type=huawei -- dataset-path=<path>`
 
 Fine text.
+Some new feature.
